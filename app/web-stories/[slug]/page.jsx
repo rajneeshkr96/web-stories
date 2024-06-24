@@ -1,6 +1,5 @@
 // pages/story.js
 
-"use client"
 export default function Story() {
   return (
     <>
